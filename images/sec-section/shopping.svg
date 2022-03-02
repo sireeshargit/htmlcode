@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="93" height="93" viewBox="0 0 93 93">
+    <defs>
+        <clipPath id="ynrr3lum0a">
+            <rect data-name="Rectangle 6600" width="93" height="93" rx="46.5" transform="translate(154 1880)" style="fill:#000036;opacity:.05"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 92" transform="translate(-154 -1880)" style="clip-path:url(#ynrr3lum0a)">
+        <g data-name="Dash Category Icons_Shopping" transform="translate(152.14 1878.14)">
+            <path data-name="Rectangle 6596" style="opacity:.1;fill:#72d8ff" d="M0 0h96.72v96.72H0z"/>
+            <rect data-name="Rectangle 6597" width="17.911" height="24.413" rx="8.956" transform="translate(42.09 18.044)" style="fill:#fb774b"/>
+            <rect data-name="Rectangle 6598" width="23.186" height="15.457" rx="7.729" transform="translate(23.811 25.529)" style="fill:#4dbaf6"/>
+            <path data-name="Path 1413" d="M235.122 395.448h-40.027a1.07 1.07 0 0 1-1.05-.874l-4.7-25.715a1.07 1.07 0 0 1 1.055-1.259h44.725z" transform="translate(-172.238 -334.282)" style="fill:#c9f3ff"/>
+            <rect data-name="Rectangle 6599" width="46.863" height="7.483" rx="3.742" transform="translate(17.064 64.539)" style="fill:#72d8ff"/>
+            <path data-name="Path 1414" d="m637.81 285.354 6.494-39.992a3.358 3.358 0 0 1 3.067-2.332c10.3.123 11.777 0 11.777 0a1.306 1.306 0 0 1 1.226 1.349v4.907s.123 1.1-1.839 1.1l-7.729.123-6.134 39.158z" transform="translate(-580.745 -220.814)" style="fill:#72d8ff"/>
+            <circle data-name="Ellipse 327" cx="4.478" cy="4.478" transform="translate(26.326 70.367)" style="fill:#686c83" r="4.478"/>
+            <circle data-name="Ellipse 328" cx="4.478" cy="4.478" transform="translate(44.728 70.367)" style="fill:#686c83" r="4.478"/>
+        </g>
+    </g>
+</svg>

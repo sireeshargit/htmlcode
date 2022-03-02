@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #d4fff4;
+      }
+
+      .cls-3 {
+        fill: #00a561;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #000036;
+        stroke-miterlimit: 10;
+        stroke-width: 0.748px;
+      }
+
+      .cls-4, .cls-7 {
+        fill: none;
+      }
+
+      .cls-5 {
+        fill: #1e253a;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#24d791"/>
+      <stop offset="1" stop-color="#18b973"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_707" data-name="Group 707" transform="translate(-682 -1006)">
+    <g id="Group_17_Copy" data-name="Group 17 Copy" transform="translate(682 1006)">
+      <circle id="Oval" class="cls-1" cx="19" cy="19" r="19"/>
+    </g>
+    <g id="Group_706" data-name="Group 706">
+      <g id="Group_21" data-name="Group 21" transform="translate(693 1018.127)">
+        <rect id="Mask" class="cls-2" width="16.17" height="12.936" rx="2.992"/>
+        <g id="Rectangle" class="cls-3" transform="translate(11.393 4.566)">
+          <path class="cls-6" d="M2.093,0H4.778a0,0,0,0,1,0,0V4.185a0,0,0,0,1,0,0H2.093A2.093,2.093,0,0,1,0,2.093v0A2.093,2.093,0,0,1,2.093,0Z"/>
+          <path class="cls-7" d="M2.093.374H4.4a0,0,0,0,1,0,0V3.811a0,0,0,0,1,0,0H2.093A1.719,1.719,0,0,1,.374,2.093v0A1.719,1.719,0,0,1,2.093.374Z"/>
+        </g>
+        <g id="Mask-2" data-name="Mask" class="cls-4">
+          <rect class="cls-6" width="16.17" height="12.936" rx="2.992"/>
+          <rect class="cls-7" x="0.374" y="0.374" width="15.422" height="12.188" rx="2.618"/>
+        </g>
+      </g>
+      <path id="Path" class="cls-5" d="M.007,0V.515C.283.531.986.468,1.1.84H.007V1.3H1.146a.707.707,0,0,1-.537.428l-.6.016L0,2.2,1.262,3.8h.653L.725,2.212a1.086,1.086,0,0,0,1.008-.935l.457.016V.856H1.7a.78.78,0,0,0-.138-.4h.646V0Z" transform="translate(700 1022.693)"/>
+    </g>
+  </g>
+</svg>

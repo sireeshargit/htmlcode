@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="93" height="93" viewBox="0 0 93 93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000036;
+        opacity: 0.05;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #214747;
+        opacity: 0.1;
+      }
+
+      .cls-4 {
+        fill: #f3a322;
+      }
+
+      .cls-5 {
+        fill: #2b2b2b;
+      }
+
+      .cls-6 {
+        fill: #eff;
+      }
+
+      .cls-7 {
+        fill: #cae3e5;
+      }
+
+      .cls-8 {
+        fill: #e7821c;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_6593" data-name="Rectangle 6593" class="cls-1" width="93" height="93" rx="46.5" transform="translate(267 647)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_90" data-name="Mask Group 90" class="cls-2" transform="translate(-267 -647)">
+    <g id="Dash_Category_Icons_Savings" data-name="Dash Category Icons_Savings" transform="translate(265.14 645.141)">
+      <rect id="Rectangle_6583" data-name="Rectangle 6583" class="cls-3" width="96.72" height="96.72" transform="translate(0 0)"/>
+      <ellipse id="Ellipse_326" data-name="Ellipse 326" class="cls-4" cx="8.735" cy="8.735" rx="8.735" ry="8.735" transform="translate(39.331 17.459)"/>
+      <path id="Path_1393" data-name="Path 1393" class="cls-5" d="M518.811,244.44H513.94v.87h.91c1.13,0,1.846.3,2.022,1.085h-2.036l-.891.061v.563h2.967c-.089,1.031-.826,1.515-2.057,1.515h-.915v.87h1l2.277,3.23h1.216l-2.423-3.334a2.349,2.349,0,0,0,1.956-2.278h.848V246.4h-.878a1.888,1.888,0,0,0-.945-1.331h1.823Z" transform="translate(-468.015 -222.067)"/>
+      <rect id="Rectangle_6584" data-name="Rectangle 6584" class="cls-6" width="36.943" height="36.943" rx="2" transform="translate(29.776 43.028)"/>
+      <rect id="Rectangle_6585" data-name="Rectangle 6585" class="cls-7" width="26.024" height="4.367" transform="translate(35.054 38.661)"/>
+      <rect id="Rectangle_6586" data-name="Rectangle 6586" class="cls-5" width="28.572" height="5.46" transform="translate(33.78 33.201)"/>
+      <rect id="Rectangle_6587" data-name="Rectangle 6587" class="cls-8" width="13.467" height="3.64" rx="1.82" transform="translate(42.243 72.783)"/>
+      <rect id="Rectangle_6588" data-name="Rectangle 6588" class="cls-4" width="13.467" height="3.64" rx="1.82" transform="translate(46.064 69.143)"/>
+      <rect id="Rectangle_6589" data-name="Rectangle 6589" class="cls-8" width="13.467" height="3.64" rx="1.82" transform="translate(44.79 65.503)"/>
+      <rect id="Rectangle_6590" data-name="Rectangle 6590" class="cls-4" width="13.467" height="3.64" rx="1.82" transform="translate(45.154 61.864)"/>
+      <rect id="Rectangle_6591" data-name="Rectangle 6591" class="cls-8" width="13.467" height="3.64" rx="1.82" transform="translate(45.154 58.224)"/>
+      <rect id="Rectangle_6592" data-name="Rectangle 6592" class="cls-8" width="13.467" height="3.64" rx="1.82" transform="translate(34.556 57.331) rotate(-45.01)"/>
+    </g>
+  </g>
+</svg>
