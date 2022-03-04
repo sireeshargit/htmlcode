@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="93" height="93" viewBox="0 0 93 93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000036;
+        opacity: 0.05;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3, .cls-4 {
+        fill: #6ebf8b;
+      }
+
+      .cls-3 {
+        opacity: 0.1;
+      }
+
+      .cls-5 {
+        fill: #83d69f;
+      }
+
+      .cls-6 {
+        fill: #ffbf9e;
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-10 {
+        fill: #4a4a56;
+      }
+
+      .cls-11 {
+        fill: #676b7f;
+      }
+
+      .cls-12 {
+        fill: #f2a381;
+      }
+
+      .cls-13 {
+        fill: url(#linear-gradient-3);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_6526" data-name="Rectangle 6526" class="cls-1" width="93" height="93" rx="46.5" transform="translate(155 647)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="1.082" y1="0.478" x2="0.16" y2="0.516" gradientUnits="objectBoundingBox">
+      <stop offset="0.4" stop-color="#ffbf9e"/>
+      <stop offset="0.99" stop-color="#dd8c68"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.13" stop-color="#ffbf9e"/>
+      <stop offset="0.99" stop-color="#dd8c68"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <g id="Mask_Group_73" data-name="Mask Group 73" class="cls-2" transform="translate(-155 -647)">
+    <g id="Dash_Category_Icons_Advance_Salary" data-name="Dash Category Icons_Advance Salary" transform="translate(153.139 645.141)">
+      <rect id="Rectangle_6521" data-name="Rectangle 6521" class="cls-3" width="96.72" height="96.72" transform="translate(0 0)"/>
+      <path id="Path_1192" data-name="Path 1192" class="cls-4" d="M375.565,426.548c-.335,4.029-4.021,8.218-7.548,9.058a13.962,13.962,0,0,1-7.3-.239,12.736,12.736,0,0,1-1.929-.768,10.926,10.926,0,0,1-4.529-13.419l2.013-4.026.8-.089c2.859-.285,12.545-1.1,14.967.757A9.8,9.8,0,0,1,375.565,426.548Z" transform="translate(-321.763 -378.921)"/>
+      <path id="Path_1193" data-name="Path 1193" class="cls-5" d="M360.719,439.692a12.723,12.723,0,0,1-1.929-.768,10.926,10.926,0,0,1-4.529-13.419l2.013-4.026.8-.089.357,2.5S351.828,433.889,360.719,439.692Z" transform="translate(-321.763 -383.246)"/>
+      <path id="Path_1194" data-name="Path 1194" class="cls-6" d="M401.755,683.387v7.719s-15.935-.839-21.638-1.175c-2.012-.168-3.522-1.845-7.884-6.709-3.69-3.857-2.516-5.367-2.516-5.367.039-.1.081-.188.125-.275,1.1-2.166,3.734-1.234,3.734-1.234l6.879,5.868h.168c.168-2.181,1.845-2.012,1.845-2.012h7.041c.009-.013.017-.027.026-.039,2.2-3.3,7.53-1.635,9.2-.632S401.755,683.387,401.755,683.387Z" transform="translate(-336.378 -615.297)"/>
+      <path id="Path_1195" data-name="Path 1195" class="cls-7" d="M501.689,724.594s-4.529.167-6.877,0-2.852-1.342-2.852-1.342h.168c.168-2.181,1.845-2.012,1.845-2.012h7.041c.009-.013.017-.027.026-.039l.143.039Z" transform="translate(-447.888 -656.335)"/>
+      <path id="Path_1196" data-name="Path 1196" class="cls-8" d="M401.755,704.161v1.6s-15.935-.839-21.638-1.175c-2.012-.168-3.522-1.845-7.884-6.709-3.69-3.857-2.516-5.367-2.516-5.367.039-.1.081-.188.125-.275,2.145,3.523,6.6,10.082,10.612,11.176C384.8,704.592,396.8,704.331,401.755,704.161Z" transform="translate(-336.378 -629.947)"/>
+      <path id="Path_1197" data-name="Path 1197" class="cls-4" d="M448.68,195.65l1.845,7.381,6.374-.839,1.845-7.548-2.936,1.929L453.8,193.72l-2.012,3.356Z" transform="translate(-408.465 -175.868)"/>
+      <path id="Path_1198" data-name="Path 1198" class="cls-9" d="M449.171,454.39H441.59v1.354h1.416c1.759,0,2.873.466,3.148,1.688h-3.171l-1.393.094v.877h4.619c-.133,1.6-1.285,2.353-3.2,2.353H441.59v1.353h1.552l3.543,5.028h1.894l-3.771-5.19a3.648,3.648,0,0,0,3.044-3.545h1.321v-.972h-1.366a2.941,2.941,0,0,0-1.471-2.07h2.837Z" transform="translate(-402.007 -413.305)"/>
+      <rect id="Rectangle_6522" data-name="Rectangle 6522" class="cls-10" width="7.046" height="14.09" rx="2.93" transform="translate(17.066 25.82)"/>
+      <rect id="Rectangle_6523" data-name="Rectangle 6523" class="cls-11" width="8.052" height="16.271" rx="2.93" transform="translate(24.111 24.814)"/>
+      <rect id="Rectangle_6524" data-name="Rectangle 6524" class="cls-10" width="7.046" height="14.09" rx="2.93" transform="translate(79.634 78.323) rotate(180)"/>
+      <rect id="Rectangle_6525" data-name="Rectangle 6525" class="cls-11" width="8.052" height="16.271" rx="2.93" transform="translate(72.588 79.33) rotate(180)"/>
+      <path id="Path_1199" data-name="Path 1199" class="cls-6" d="M379.223,265.173c-.5.839-2.684,1.174-3.355.839,1.007.671,2.013,1.341,1.342,2.684-.572,1.145-.413,1.558-4.11,1.444h-.032c-.624-.02-1.364-.053-2.233-.1-2.857,0-4.557.057-5.473.105a3.4,3.4,0,0,1-1.748-.379l-5.275-2.75V255.071l2.925-1.283,5.965-2.619,1.006,4.193,4.868-.7,4.529-.648s1.175-.168,1.846,1.677a2.036,2.036,0,0,1-1.51,2.349,2.048,2.048,0,0,1,1.426,2.265,2.375,2.375,0,0,1-1.342,1.677S380.235,263.159,379.223,265.173Z" transform="translate(-326.177 -228.198)"/>
+      <path id="Path_1200" data-name="Path 1200" class="cls-12" d="M373.069,296.9c-.624-.02-1.364-.053-2.233-.1-2.857,0-4.557.057-5.473.105a3.4,3.4,0,0,1-1.748-.379l-5.275-2.75V281.833l2.925-1.283s.765,14.49,5.629,14.994A28.088,28.088,0,0,1,373.069,296.9Z" transform="translate(-326.177 -254.959)"/>
+      <path id="Path_1201" data-name="Path 1201" class="cls-13" d="M530.082,294.235c-.5.839-2.684,1.174-3.355.839,1.007.671,2.013,1.341,1.342,2.684-.572,1.145-.413,1.558-4.11,1.444V283.728l4.528-.648s1.175-.168,1.846,1.677a2.036,2.036,0,0,1-1.51,2.349,2.048,2.048,0,0,1,1.426,2.265,2.375,2.375,0,0,1-1.342,1.677S531.094,292.221,530.082,294.235Z" transform="translate(-477.036 -257.26)"/>
+    </g>
+  </g>
+</svg>

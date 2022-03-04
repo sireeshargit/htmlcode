@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
-@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+
 *{
     font-family: 'Poppins', sans-serif;
 }
@@ -335,10 +335,15 @@ display: block;
 /* thrd section start here*/
 .thrd-section{
     padding: 32px 0px;}
-.thrd-section .row .row, .thrd-section  .col-md-3{
+.thrd-section .row .thrd-space, .thrd-section  .col-md-3, .dealoftheday .col{
     padding: 20px;
     background: #fff;
     border-radius: 16px;
+}
+.thrd-space h4, .exclusive h4 {
+    font-size: 18px;
+    color: #1e253a;
+    line-height: 27px;
 }
 .thrd-space
 {
@@ -358,48 +363,159 @@ display: block;
     font-size: 15px;
     font-weight: 500;
     line-height: 1.07;
-    margin-top: 20px;
+    margin-top: 30px;
+    margin-right:20px;
 }
-.thumb-ctn span.price-ctn {
-    font-size: 25.6px;
-    background-color: rgba(0, 0, 0, 0.10);
-    border-radius: 24px;
-    display: inline-block;
-    padding: 5px 10px; 
+.thumb-ctn span.price-ctn
+
+{font-size: 25.6px;
+background-color: rgba(0, 0, 0, 0.10);
+border-radius: 24px;
+display: inline-block;
+padding: 5px 10px; 
+font-weight: 700;
 }
-.thumb-ctn a {
+.thumb-ctn a{
     font-size:15px;
     color: #fff !important;
     font-weight: 500;
     position: absolute;
-    bottom: 10px;
+    bottom: 20px;
     left:15px;
+    padding-right:20px;
+    background-image: url("../images/thrd-section/arrow-forward-outline.svg");
+    background-position: right ;
+    background-repeat: no-repeat;
 }
 .deal-loan
 {
     background: rgb(242,211,167);
-    background: linear-gradient(0deg, rgba(242,211,167,1) 0%, rgba(246,238,231,1) 100%);
-    height:253px;
+background: linear-gradient(0deg, rgba(242,211,167,1) 0%, rgba(246,238,231,1) 100%);
+height:253px;
 }
-.deal-loan .img-icon{
+ .img-icon{
     width:38px;
     height:38px;
     text-align: center;
-    vertical-align: middle;
-    background: rgb(242,211,167);
-    background: linear-gradient(0deg, rgba(242,211,167,1) 0%, rgba(246,238,231,1) 100%);
+    vertical-align: middle;   
     border-radius: 100%;
     margin-right: 15px;
+}
+.deal-loan .img-icon{ background: rgb(242,211,167);
+    background: linear-gradient(0deg, rgba(242,211,167,1) 0%, rgba(246,238,231,1) 100%);
 }
 .deal-cash
 {
     background: rgb(39,195,127);
     background: linear-gradient(0deg, rgba(39,195,127,1) 0%, rgba(38,242,162,1) 100%);
-    height:253px;
+height:253px;
 }
-.deal-gold
+.deal-cash .img-icon
+{
+    
+    background: rgb(39,195,127);
+    background: linear-gradient(0deg, rgba(39,195,127,1) 0%, rgba(38,242,162,1) 100%);
+}
+.deal-gold 
 {
     background: rgb(254,209,112);
-    background: linear-gradient(0deg, rgba(254,209,112,1) 0%, rgba(253,228,164,1) 100%);
-    height:253px;
+background: linear-gradient(0deg, rgba(254,209,112,1) 0%, rgba(253,228,164,1) 100%);
+height:253px;
 }
+.deal-gold .img-icon{ 
+    background: rgb(254,209,112);
+background: linear-gradient(0deg, rgba(254,209,112,1) 0%, rgba(253,228,164,1) 100%);}
+.exclusive-ctn
+{
+    background-color: #b34fe5;
+    padding: 15px 15px 15px 15px;
+  border-radius: 8px;
+  background-image: url("../images/thrd-section/mobile-background.webp");
+  background-position: right bottom;
+  height:253px;
+  background-size: 251px  243px;
+  background-repeat: no-repeat;
+}
+.exclusive-ctn img
+{
+    width: 41.8px;
+    height: 17px;
+    margin: 0 0px 16px 0;
+}
+.offer-ctn {
+    font-size: 28px;
+    color:#fff;
+    line-height: 43px;
+display: block;
+
+font-weight: 600;
+}
+.offer-value {
+    font-weight: 600;
+    display: block;
+    font-size: 45px;
+    color:#fff;
+    line-height: 47px;
+    
+}
+.dealoftheday h3{
+    font-size:24px;
+    color:#212b33;
+    font-weight:700;
+}
+.dealoftheday a{
+    font-size:18px;
+    color:#777;
+    font-weight:500;
+}
+.dealoftheday  .owl-stage 
+{
+    padding-left:0px !important
+}
+.dealoftheday  .owl-nav{position: absolute;
+    top: 22%;
+    width: 100%;
+    height: 100%;}
+    .dealoftheday  .owl-prev
+    {
+        position: absolute;
+        left: 0px;
+        width: 24px;
+        height: 74px;
+        background-color: #fff !important;
+        margin: 0px !important;
+        
+    border-top-left-radius: 0px !important;
+    
+    border-bottom-left-radius: 0px !important;
+        
+    }
+    .dealoftheday  .owl-next
+    {
+        position: absolute;
+        
+    border-top-right-radius: 0px !important;
+    
+    border-bottom-right-radius: 0px !important;
+        right: 0px;
+        width: 24px;
+        height: 74px;
+        background-color: #fff !important;
+        margin: 0px !important;
+    }
+    .dealoftheday  .owl-prev span,   .dealoftheday  .owl-next span
+    {
+       color:#777;
+       font-size:31px;
+    }
+    .dealoftheday  .owl-prev:focus,   .dealoftheday  .owl-next:focus
+    {
+        
+    outline: 0px dotted;
+    outline: 0px auto -webkit-focus-ring-color;
+
+    }
+    .dealoftheday  .owl-carousel
+    {
+        position:relative;
+    }
