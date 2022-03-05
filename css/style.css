@@ -335,7 +335,7 @@ display: block;
 /* thrd section start here*/
 .thrd-section{
     padding: 32px 0px;}
-.thrd-section .row .thrd-space, .thrd-section  .col-md-3, .dealoftheday .col{
+.thrd-section .row .thrd-space, .thrd-section  .col-md-3, .dealoftheday .col, .invest-ctn .col, .owl-ctn .col{
     padding: 20px;
     background: #fff;
     border-radius: 16px;
@@ -458,25 +458,34 @@ font-weight: 600;
     line-height: 47px;
     
 }
-.dealoftheday h3{
+.dealoftheday h3, .invest-ctn h3, .owl-ctn h3{
     font-size:24px;
     color:#212b33;
     font-weight:700;
 }
-.dealoftheday a{
+.dealoftheday a, .invest-ctn a{
     font-size:18px;
     color:#777;
     font-weight:500;
 }
-.dealoftheday  .owl-stage 
+.dealoftheday  .owl-stage, .winner-ctn .owl-stage , .aboutus-section  .owl-stage
 {
     padding-left:0px !important
 }
-.dealoftheday  .owl-nav{position: absolute;
+.dealoftheday  .owl-nav, .invest-ctn .owl-nav, .winner-ctn .owl-nav{
+    position: absolute; display: block !important;
     top: 22%;
     width: 100%;
     height: 100%;}
-    .dealoftheday  .owl-prev
+    .invest-ctn .owl-nav{
+        top:40%
+    }
+    .winner-ctn .owl-nav
+    {
+        top:20%;
+    }
+
+    .dealoftheday  .owl-prev, .invest-ctn .owl-prev, .winner-ctn .owl-prev
     {
         position: absolute;
         left: 0px;
@@ -490,7 +499,7 @@ font-weight: 600;
     border-bottom-left-radius: 0px !important;
         
     }
-    .dealoftheday  .owl-next
+    .dealoftheday  .owl-next, .invest-ctn .owl-next, .winner-ctn .owl-next
     {
         position: absolute;
         
@@ -503,19 +512,73 @@ font-weight: 600;
         background-color: #fff !important;
         margin: 0px !important;
     }
-    .dealoftheday  .owl-prev span,   .dealoftheday  .owl-next span
+    .dealoftheday  .owl-prev span,   .dealoftheday  .owl-next span, .invest-ctn  .owl-prev span,   .invest-ctn  .owl-next span,  .winner-ctn  .owl-prev span,   .winner-ctn  .owl-next span
     {
        color:#777;
        font-size:31px;
     }
-    .dealoftheday  .owl-prev:focus,   .dealoftheday  .owl-next:focus
+    .dealoftheday  .owl-prev:focus,   .dealoftheday  .owl-next:focus, 
+    .invest-ctn  .owl-prev:focus,   .invest-ctn  .owl-next:focus, 
+    .winner-ctn  .owl-prev:focus,   .winner-ctn  .owl-next:focus
     {
         
     outline: 0px dotted;
     outline: 0px auto -webkit-focus-ring-color;
 
     }
-    .dealoftheday  .owl-carousel
+    .dealoftheday  .owl-carousel, .invest-ctn .owl-carousel, .winner-ctn .owl-carousel
     {
         position:relative;
+    }
+    .invest-ctn a.download-arrow{
+        position: absolute;
+        top: -29px;
+        right: -13px;
+    }
+    .aboutus-thumb-ctn{
+  padding: 23px 21px 18px 16px;
+  border-radius: 16px;
+  background-color: #fafaff;}
+  .aboutus-thumb{
+  position: relative;
+    }
+    .aboutus-thumb a{
+        top: 0px;
+        left: 0px;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background-image: url("../images/youtube-icon.png");
+        background-repeat: no-repeat;
+        background-size: 54px 38px ;
+        background-position: center center;
+    }
+    .aboutus-details {
+        padding: 0px 21px 18px 16px;}
+    .aboutus-details img {
+        width: 48px !important;
+        height: 48px;
+        display: inline-block !important;
+        margin-right: 10px;
+    }
+    .aboutus-details  span  {
+        display: inline-block;
+    }
+    .aboutus-profile-date
+    {
+        font-size: 16px;
+        font-weight: 500;
+        color: #777;
+        line-height: 1.56;
+    }
+    .aboutus-profile-pic
+    {
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 1.46;
+  color: #212b33;
+    }
+    .aboutus-ctn.owl-ctn .col
+    {
+        background: transparent;
     }
